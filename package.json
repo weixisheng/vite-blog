@@ -10,6 +10,7 @@
   "scripts": {
     "serve": "vitepress dev",
     "build": "vitepress build",
-    "preview": "vitepress preview"
+    "preview": "vitepress preview",
+    "commit": "bash ./build/commit.sh"
   }
 }

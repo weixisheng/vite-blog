@@ -6,7 +6,7 @@ export default defineConfig({
   description: "web front-end development engineer",
   base: '/vite-blog/',
   head: [
-    ['link', { rel: 'icon', href: '/favicon.svg' }]
+    ['link', { rel: 'icon', href: '/vite-blog/svg/favicon.svg' }]
   ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
@@ -41,8 +41,28 @@ export default defineConfig({
         text: '小程序',
         collapsed: true,
         items: [
-          { text: '小程序开发资料', link: '/mp' },
-          { text: '小程序demo', link: '/mp/demo' }
+          { text: '小程序开发资料', link: '/mp/index' }
+        ]
+      },
+      {
+        text: 'Vue',
+        collapsed: true,
+        items: [
+          { text: 'Vue原理解析', link: '/vue/index' }
+        ]
+      },
+      {
+        text: 'SCSS/LESS',
+        collapsed: true,
+        items: [
+          { text: 'scss/less编译', link: '/scss/index' }
+        ]
+      },
+      {
+        text: 'Git',
+        collapsed: true,
+        items: [
+          { text: 'git基础', link: '/git/index' }
         ]
       }
     ],

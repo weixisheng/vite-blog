@@ -1,0 +1,15 @@
+{
+  "name": "vite-blog",
+  "version": "1.0.0",
+  "description": "hishion blog",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "^1.0.0-beta.1"
+  },
+  "scripts": {
+    "serve": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview"
+  }
+}

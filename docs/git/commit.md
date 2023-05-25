@@ -71,8 +71,8 @@ commitizen init cz-conventional-changelog --yarn --dev --exact
 git add .
 git cz
 ```
-![提交信息](../.vuepress/public/img/git-1.png)
-![提交结果](../.vuepress/public/img/git-2.png)
+![提交信息](/img/git-1.png)
+![提交结果](/img/git-2.png)
 
 #### [validate-commit-msg](https://github.com/conventional-changelog-archived-repos/validate-commit-msg)
 validate-commit-msg 一款Node插件，检查项目的 Commit message 是否符合格式。
@@ -136,7 +136,7 @@ validate-commit-msg 一款Node插件，检查项目的 Commit message 是否符�
   } 
 }
 ```
-![提交结果](../.vuepress/public/img/git-3.png)
+![提交结果](/img/git-3.png)
 
 ## CHANGELOG
 使用 `conventional-changelog-cli`生成 `changelog`。全局安装

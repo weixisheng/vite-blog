@@ -8,6 +8,9 @@ export default defineConfig({
   head: [
     ['link', { rel: 'icon', href: '/vite-blog/svg/favicon.svg' }]
   ],
+  markdown: {
+    lineNumbers: true
+  },
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
@@ -21,8 +24,8 @@ export default defineConfig({
         { text: 'Git', link: '/git/' },
         { text: '前端编码规范', link: '/standard/' },
         { text: '工具', link: '/tool/' },
-        { text: '网络', link: '/http/' },
         { text: 'Linux', link: '/linux/' },
+        { text: '网络', link: '/http/' },
         { text: 'GraphQL', link: '/graphql/' },
         { text: '其他', link: '/other/' },
       ] }
@@ -41,7 +44,8 @@ export default defineConfig({
         text: '小程序',
         collapsed: true,
         items: [
-          { text: '小程序开发资料', link: '/mp/index' }
+          { text: '小程序开发资料', link: '/mp/index' },
+          { text: '小程序demo', link: '/mp/demo' },
         ]
       },
       {
@@ -63,6 +67,48 @@ export default defineConfig({
         collapsed: true,
         items: [
           { text: 'git基础', link: '/git/index' }
+        ]
+      },
+      {
+        text: '前端规范',
+        collapsed: true,
+        items: [
+          { text: '前端编码规范', link: '/standard/index' }
+        ]
+      },
+      {
+        text: '工具',
+        collapsed: true,
+        items: [
+          { text: 'markdown语法', link: '/tool/index' }
+        ]
+      },
+      {
+        text: 'Linux知识',
+        collapsed: true,
+        items: [
+          { text: 'linux命令', link: '/linux/index' }
+        ]
+      },
+      {
+        text: '网络知识',
+        collapsed: true,
+        items: [
+          { text: 'GET和POST的区别', link: '/http/index' }
+        ]
+      },
+      {
+        text: 'GraphQL',
+        collapsed: true,
+        items: [
+          { text: 'GraphQL知识', link: '/graphql/index' }
+        ]
+      },
+      {
+        text: '其他',
+        collapsed: true,
+        items: [
+          { text: '驾照', link: '/other/index' }
         ]
       }
     ],

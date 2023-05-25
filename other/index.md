@@ -1,4 +1,3 @@
-<script setup></script>
 ::: tip 科目一知识点汇总 
 :::
 
@@ -11,8 +10,17 @@
   </div>
 </div>
 
+<div class="panel-item" id="增驾申领">
+  <h4 class="panel-title">增驾申领</h4>
+  <p class="primary-color">已持有机动车驾驶证，申请增加准驾车型</p>
+  <div class="panel-content">
+    <li>大型客车、重型牵引挂车、城市公交车、中型客车、大型货车、小型汽车、小型自动挡汽车</li>
+    <li>低速载货汽车、三轮汽车、轻型牵引挂车、普通三轮摩托车、普通二轮摩托车、轻便摩托车、轮式专用机械车、无轨电车、有轨电车</li>
+  </div>
+</div>
+
 <style lang="scss" scoped>
-  .panel-item {
+.panel-item {
   overflow: hidden;
 
   margin-top: 20px;
@@ -23,10 +31,13 @@
   border-radius: 4px;
   background-color: #fff;
   box-shadow: 0 2px 12px 0 rgba(0,0,0,.1);
+  p {
+    margin: 10px 0;
+  }
   .panel-title {
     position: relative;
 
-    margin-bottom: 20px;
+    margin-bottom: 12px;
     padding-left: 20px;
 
     background-image: -webkit-linear-gradient(90deg, rgb(47, 223, 150), rgb(22, 151, 211));

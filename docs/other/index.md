@@ -2,9 +2,6 @@
   import { ref } from 'vue'
   import BaseNotify from '/components/BaseNotify.vue'
   const isValid = ref(false)
-  if (process.env.NODE_ENV === 'development') {
-    isValid.value = true
-  }
   const input = ref('')
 
   const toast = ref(null)

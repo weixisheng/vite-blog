@@ -1,6 +1,3 @@
-<script setup>
-  import BaseTag from '../components/BaseTag.vue'
-</script>
 ::: tip 前端编码规范
 旨在增强团队协作、提高代码质量，保持代码最大程度的一致性、降低维护代码的成本。
 :::

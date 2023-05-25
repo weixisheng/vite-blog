@@ -59,14 +59,18 @@ export default defineConfig({
         text: 'SCSS/LESS',
         collapsed: true,
         items: [
-          { text: 'scss/less编译', link: '/scss/index' }
+          { text: 'scss/less编译', link: '/scss/index' },
+          { text: 'sass相关', link: '/scss/about' }
         ]
       },
       {
         text: 'Git',
         collapsed: true,
         items: [
-          { text: 'git基础', link: '/git/index' }
+          { text: 'Git命令', link: '/git/index' },
+          { text: 'Git提交规范', link: '/git/commit' },
+          { text: '分支重命名', link: '/git/rename' },
+          { text: 'Git emoji', link: '/git/emoji' },
         ]
       },
       {
@@ -80,21 +84,38 @@ export default defineConfig({
         text: '工具',
         collapsed: true,
         items: [
-          { text: 'markdown语法', link: '/tool/index' }
+          { text: 'markdown语法', link: '/tool/index' },
+          { text: 'VSCode', link: '/tool/vscode' },
+          { text: 'HBuilder', link: '/tool/hbuilder' },
+          { text: '扩展程序', link: '/tool/extensions' },
+          { text: 'Cmder', link: '/tool/cmder' },
+          { text: '镜像', link: '/tool/mirror' },
+          { text: 'npm发包', link: '/tool/npm' },
+          { text: '自定义脚手架', link: '/tool/cli' },
+          { text: '字体文件转base64', link: '/tool/iconfont' },
+          { text: '自动cmd命令', link: '/tool/autocmd' },
+          { text: 'yarn命令', link: '/tool/yarn' },
+          { text: 'package version说明', link: '/tool/package-version' },
+          { text: '移动端调试工具', link: '/tool/debug' },
         ]
       },
       {
         text: 'Linux知识',
         collapsed: true,
         items: [
-          { text: 'linux命令', link: '/linux/index' }
+          { text: 'linux命令', link: '/linux/index' },
+          { text: '安装nodejs', link: '/linux/node' },
+          { text: 'Linux实用命令', link: '/linux/useful-command' },
         ]
       },
       {
         text: '网络知识',
         collapsed: true,
         items: [
-          { text: 'GET和POST的区别', link: '/http/index' }
+          { text: 'GET和POST的区别', link: '/http/index' },
+          { text: '加速Github访问', link: '/http/accelerate' },
+          { text: 'HTTP缓存', link: '/http/cache' },
+          { text: 'HTTP2', link: '/http/http2' },
         ]
       },
       {
@@ -108,7 +129,8 @@ export default defineConfig({
         text: '其他',
         collapsed: true,
         items: [
-          { text: '驾照', link: '/other/index' }
+          { text: '驾照', link: '/other/index' },
+          { text: '英语俗语', link: '/other/english' }
         ]
       }
     ],

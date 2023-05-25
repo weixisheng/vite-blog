@@ -35,7 +35,7 @@ layout: doc
 </div>
 <BaseNotify ref="toast" />
 
-<div v-show="isValid">
+<div v-if="isValid">
 
 ## 初次申领驾驶证
 <div class="panel-item">

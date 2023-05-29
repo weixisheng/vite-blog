@@ -135,6 +135,7 @@ export default defineConfig({
         collapsed: true,
         items: [
           { text: 'AI 合集', link: '/docs/AI/index' }
+        ]
       },
       {
         text: 'Linux知识',

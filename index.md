@@ -12,8 +12,8 @@ hero:
       text: 开始-前端基础 ✨
       link: /docs/basic/
     - theme: alt
-      text: 逛逛其他 🔭
-      link: /docs/other/
+      text: AI 合集 🔭
+      link: /docs/AI/
 
 features:
   - icon: 

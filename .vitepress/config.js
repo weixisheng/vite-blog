@@ -24,6 +24,7 @@ export default defineConfig({
         { text: 'Git', link: '/docs/git/' },
         { text: '前端编码规范', link: '/docs/standard/' },
         { text: '工具', link: '/docs/tool/' },
+        { text: '工具', link: '/docs/AI/' },
         { text: 'Linux', link: '/docs/linux/' },
         { text: '网络', link: '/docs/http/' },
         { text: 'GraphQL', link: '/docs/graphql/' },
@@ -128,6 +129,12 @@ export default defineConfig({
           { text: 'package version说明', link: '/docs/tool/package-version' },
           { text: '移动端调试工具', link: '/docs/tool/debug' },
         ]
+      },
+      {
+        text: 'AI 合集',
+        collapsed: true,
+        items: [
+          { text: 'AI 合集', link: '/docs/AI/index' }
       },
       {
         text: 'Linux知识',

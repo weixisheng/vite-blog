@@ -14,8 +14,8 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: '主页', link: '/' },
-      { text: '文章', items: [
+      { text: '🏠主页', link: '/' },
+      { text: '📃文章', items: [
         { text: '前端基础', link: '/docs/basic/' },
         { text: '小程序', link: '/docs/mp/' },
         { text: 'Vue', link: '/docs/vue/' },
@@ -34,10 +34,10 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: '前端基础',
+        text: '🛠️前端基础',
         collapsed: true,
         items: [
-          { text: '30秒能理解的代码', link: '/docs/basic/index' },
+          { text: '30秒能理解的代码', link: '/docs/basic/' },
           { text: '基础概念', link: '/docs/basic/concept' },
           { text: 'JavaScript设计模式', link: '/docs/basic/design-patterns' },
           { text: 'JS 面试题', link: '/docs/basic/this-scope' },
@@ -55,10 +55,10 @@ export default defineConfig({
         ]
       },
       {
-        text: '小程序',
+        text: '🧬小程序',
         collapsed: true,
         items: [
-          { text: '小程序开发资料', link: '/docs/mp/index' },
+          { text: '小程序开发资料', link: '/docs/mp/' },
           { text: '小程序demo', link: '/docs/mp/demo' },
           { text: '小程序自定义tabbar', link: '/docs/mp/custom-tabbar' },
           { text: '小程序画布应用', link: '/docs/mp/canvas' },
@@ -73,10 +73,10 @@ export default defineConfig({
         ]
       },
       {
-        text: 'Vue',
+        text: '🧷Vue',
         collapsed: true,
         items: [
-          { text: 'Vue原理解析', link: '/docs/vue/index' },
+          { text: 'Vue原理解析', link: '/docs/vue/' },
           { text: 'Vue规范指南', link: '/docs/vue/guide' }, 
           { text: '自动加载文件', link: '/docs/vue/auto' }, 
           { text: 'Vue插槽', link: '/docs/vue/slot' }, 
@@ -87,35 +87,35 @@ export default defineConfig({
         ]
       },
       {
-        text: 'SCSS/LESS',
+        text: '💄SCSS/LESS',
         collapsed: true,
         items: [
-          { text: 'scss/less编译', link: '/docs/scss/index' },
+          { text: 'scss/less编译', link: '/docs/scss/' },
           { text: 'sass相关', link: '/docs/scss/about' }
         ]
       },
       {
-        text: 'Git',
+        text: '⚗️Git',
         collapsed: true,
         items: [
-          { text: 'Git命令', link: '/docs/git/index' },
+          { text: 'Git命令', link: '/docs/git/' },
           { text: 'Git提交规范', link: '/docs/git/commit' },
           { text: '分支重命名', link: '/docs/git/rename' },
           { text: 'Git emoji', link: '/docs/git/emoji' },
         ]
       },
       {
-        text: '前端规范',
+        text: '🏅前端规范',
         collapsed: true,
         items: [
-          { text: '前端编码规范', link: '/docs/standard/index' }
+          { text: '前端编码规范', link: '/docs/standard/' }
         ]
       },
       {
-        text: '工具',
+        text: '⚔️工具',
         collapsed: true,
         items: [
-          { text: 'markdown语法', link: '/docs/tool/index' },
+          { text: 'markdown语法', link: '/docs/tool/' },
           { text: 'VSCode', link: '/docs/tool/vscode' },
           { text: 'HBuilder', link: '/docs/tool/hbuilder' },
           { text: '扩展程序', link: '/docs/tool/extensions' },
@@ -131,43 +131,44 @@ export default defineConfig({
         ]
       },
       {
-        text: 'AI 合集',
+        text: '🔭AI 合集',
         collapsed: true,
         items: [
-          { text: 'AI 合集', link: '/docs/AI/index' }
+          { text: 'AI 合集', link: '/docs/AI/' },
+          { text: 'ChatGPT提问技巧', link: '/docs/AI/ask' },
         ]
       },
       {
-        text: 'Linux知识',
+        text: '🖇️Linux知识',
         collapsed: true,
         items: [
-          { text: 'linux命令', link: '/docs/linux/index' },
+          { text: 'linux命令', link: '/docs/linux/' },
           { text: '安装nodejs', link: '/docs/linux/node' },
           { text: 'Linux实用命令', link: '/docs/linux/useful-command' },
         ]
       },
       {
-        text: '网络知识',
+        text: '💻网络知识',
         collapsed: true,
         items: [
-          { text: 'GET和POST的区别', link: '/docs/http/index' },
+          { text: 'GET和POST的区别', link: '/docs/http/' },
           { text: '加速Github访问', link: '/docs/http/accelerate' },
           { text: 'HTTP缓存', link: '/docs/http/cache' },
           { text: 'HTTP2', link: '/docs/http/http2' },
         ]
       },
       {
-        text: 'GraphQL',
+        text: '💽GraphQL',
         collapsed: true,
         items: [
-          { text: 'GraphQL知识', link: '/docs/graphql/index' }
+          { text: 'GraphQL知识', link: '/docs/graphql/' }
         ]
       },
       {
-        text: '其他',
+        text: '🔇其他',
         collapsed: true,
         items: [
-          { text: '驾照', link: '/docs/other/index' },
+          { text: '驾照', link: '/docs/other/' },
           { text: '英语俗语', link: '/docs/other/english' }
         ]
       }

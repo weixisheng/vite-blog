@@ -2,7 +2,7 @@
 ## 安装
 因为网络问题，`sass-loader` 和 `node-sass` 可能安装失败，这里可以采用淘宝镜像解决一下
 ### 安装镜像
-> [淘宝 NPM 镜像](https://developer.aliyun.com/mirror/NPM?from=tnpm)
+> ~~[淘宝 NPM 镜像](https://developer.aliyun.com/mirror/NPM?from=tnpm)~~ 见[工具-镜像](../tool/mirror.html)
 ```bash
 npm i -g cnpm --registry=https://registry.npm.taobao.org
 ```

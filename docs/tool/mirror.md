@@ -1,4 +1,7 @@
 # 镜像
+::: tip NPM MIRROR
+[npmmirror 镜像站](https://npmmirror.com/)
+:::
 ## npm镜像
 ```bash
 # 原始镜像
@@ -10,6 +13,12 @@ https://registry.npm.taobao.org => https://registry.npmmirror.com
 cnpm使用
 ```bash
 npm install -g cnpm --registry=https://registry.npmmirror.com
+```
+
+镜像安装
+```bash
+yarn install --registry=https://registry.npmmirror.com
+npm install --registry=https://registry.npmmirror.com
 ```
 ## npm包下载
 一般在nvm下载失败时手动下载替换

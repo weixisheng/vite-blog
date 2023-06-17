@@ -145,6 +145,7 @@ export default defineConfig({
           { text: 'linux命令', link: '/docs/linux/' },
           { text: '安装nodejs', link: '/docs/linux/node' },
           { text: 'Linux实用命令', link: '/docs/linux/useful-command' },
+          { text: 'vim按键', link: '/docs/linux/vim' },
         ]
       },
       {

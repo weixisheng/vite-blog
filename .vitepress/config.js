@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "hishion blog",
-  description: "web front-end development engineer",
+  description: "web 前端 博客 文档 vitepress",
   base: '/vite-blog/',
   head: [
     ['link', { rel: 'icon', href: '/vite-blog/svg/favicon.svg' }]
@@ -20,11 +20,12 @@ export default defineConfig({
         { text: '小程序', link: '/docs/mp/' },
         { text: 'Vue', link: '/docs/vue/' },
         { text: 'uni-app', link: '/docs/uni/life' },
+        { text: '微前端', link: '/docs/micro/' },
         { text: 'SCSS/LESS', link: '/docs/scss/' },
         { text: 'Git', link: '/docs/git/' },
         { text: '前端编码规范', link: '/docs/standard/' },
         { text: '工具', link: '/docs/tool/' },
-        { text: '工具', link: '/docs/AI/' },
+        { text: 'AI', link: '/docs/AI/' },
         { text: 'Linux', link: '/docs/linux/' },
         { text: '网络', link: '/docs/http/' },
         { text: 'GraphQL', link: '/docs/graphql/' },
@@ -84,6 +85,13 @@ export default defineConfig({
           { text: 'Vue Element table二次封装', link: '/docs/vue/table' }, 
           { text: '卡片式轮播图之后台实现', link: '/docs/vue/swiper' }, 
           { text: 'Vue项目配置eslint', link: '/docs/vue/eslint' },
+        ]
+      },
+      {
+        text: '🧫微前端',
+        collapsed: true,
+        items: [
+          { text: '框架', link: '/docs/micro/' }
         ]
       },
       {

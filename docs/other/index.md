@@ -114,7 +114,7 @@
   <p class="primary-color">血液中酒精含量在80毫克/100毫升（含）以上属于醉酒驾驶</p>
   <ol>
     <li>饮酒后驾驶机动车辆，暂扣6个月机动车驾驶证，罚款1000-2000元，记12分；因饮酒后驾驶机动车被处罚，再次饮酒后驾驶机动车的，处10日以下拘留，并处1000-2000元罚款，<span class="danger-color">吊销机动车驾驶证</span>。</li>
-    <li>饮酒驾驶营运机动车，罚款5000元，记12分，处以15日以下拘留，并且5年内不得重新获取机动车驾驶证</li>
+    <li>饮酒驾驶营运机动车，罚款5000元，记12分，处以15日以下拘留，<span class="danger-color">吊销机动车驾驶证</span>，并且5年内不得重新获取机动车驾驶证</li>
     <li>醉酒驾驶机动车辆，<span class="danger-color">吊销机动车驾驶证</span>，5年内不得重新获取机动车驾驶证，经过判决后处以拘役，并处罚金。</li>
     <li>醉酒驾驶营运机动车的，<span class="danger-color">吊销机动车驾驶证</span>，依法追究刑事责任；10年内不得重新获取机动车驾驶证，重新取得机动车驾驶证后，不得驾驶营运机动车。</li>
     <li>饮酒后或者醉酒驾驶机动车发生重大交通事故，构成犯罪的，依法追究刑事责任，并由公安机关交通管理部门<span class="danger-color">吊销机动车驾驶证</span>，终生不得重新取得机动车驾驶证。</li>
@@ -353,6 +353,13 @@
   <p class="primary-color">路边黄色虚线允许临时停车，黄色实线禁止停车</p>
 </div>
 
+## 环岛
+<div class="panel-item">
+  <ol>
+    <li>驶入环岛时，按逆时针方向，不用开启转向灯</li>
+  </ol>
+</div>
+
 ## 事故处罚
 <div class="panel-item">
   <ol>
@@ -586,10 +593,8 @@
   p {
     margin: 10px 0;
   }
-  :deep {
-    .base-tag {
-      margin-right: 10px;
-    }
+  :deep(.base-tag) {
+    margin-right: 10px;
   }
 }
 .danger-color {

@@ -192,7 +192,7 @@
 <div class="panel-item">
   <ol>
     <li>申请人在<span class="warning-color">考试</span>过程中有贿赂、舞弊行为的，取消考试资格，已经通过考试的其他科目成绩无效，公安机关交通管理部门处<span class="warning-color">2000元以下</span>罚款；申请人在<span class="warning-color">1年内</span>不得再次申领机动车驾驶证。</li>
-    <li>机动车驾驶人参加<span class="warning-color">审验教育</span>时在签注学习记录、学习过程中弄虚作假的，<span class="warning-color">本人：罚1000元；代替他人：罚2000元；组织：罚3倍2万</span></li>
+    <li>机动车驾驶人参加<span class="warning-color">审验教育</span>时在签注学习记录、学习过程中弄虚作假的，<span class="warning-color">本人：罚1000元；代替他人：罚2000元；组织：罚3倍2万</span>。没有违法所得，2万以下罚款</li>
     <li><span class="warning-color">组织</span>他人实施<span class="warning-color">卖分</span>牟取经济利益的，处违法所得<span class="warning-color">5倍以下</span>罚款，但最高<span class="warning-color">不超过10万元</span></li>
     <li><span class="warning-color">组织</span>、参与实施欺骗、贿赂等不正当手段取得机动车<span class="warning-color">驾驶证</span>牟取经济利益的，处违法所得<span class="warning-color">3倍-5倍</span>罚款，但最高<span class="warning-color">不超过10万元</span></li>
     <li>接受交通<span class="warning-color">安全教育</span>扣减交通违法行为记分中弄虚作假的，撤销相应记分扣减记录，<span class="warning-color">1000元以下</span>罚款</li>
@@ -209,6 +209,7 @@
     <li>不按规定使用灯光的；</li>
     <li>不按规定会车的；</li>
     <li>不按规定倒车的；</li>
+    <li>未系安全带的；</li>
     <li>驾驶机动车违反禁令标志、禁止标线指示的；</li>
     <li>驾驶未按规定定期进行安全技术检验的公路客运汽车、旅游客运汽车、危险物品运输车辆以外的机动车上道路行驶的</li>
     <li>上道路行驶的机动车未放置检验合格标志、保险标志，未随车携带行驶证、机动车驾驶证的；</li>
@@ -240,7 +241,7 @@
     <li>驾驶机动车有拨打、接听手持电话等妨碍安全驾驶的行为的；</li>
     <li>前方机动车停车排队或者缓慢行驶时，借道超车或者占用对面车道、穿插等候车辆的；(<span class="danger-color">100元罚款</span>)</li>
     <li>驾驶营运客车（不包括公共汽车）、校车以外的载客汽车载人超过核定人数&lt;20%的；</li>
-    <li>驾驶中型以上载客载货汽车、危险物品运输车辆在<span class="warning-color">高速公路/城市快速路以外</span>的道路上行驶或者驾驶其他机动车行驶超过规定时速&lt;20%的；</li>
+    <li>驾驶<span class="warning-color">校车、中型以上载客载货汽车、危险物品运输以外</span>车辆在公路上行驶超过规定时速20%~50%的；</li>
     <li>驾驶货车载物超过核定载质量&lt;30%的；</li>
     <li>高速公路上行驶低于规定最低时速的；(<span class="danger-color">慢3</span>)</li>
     <li>驾驶禁止驶入高速公路的机动车驶入高速公路的；</li>
@@ -262,7 +263,6 @@
     <li>驾驶机动车<span class="warning-color">违反道路交通信号灯</span>通行的;</li>
     <li>驾驶营运客车(不包括公共汽车)、校车载人超过核定人数&lt;20%的，7座以上载客汽车载人超过核定人数20%~50%，或者驾驶其他载客汽车载人超过核定人数50%~100%;</li>
     <li>造驾驶中型以上载客载货汽车、校车、危险物品运输车辆在高速公路/城市快速路上行驶超过规定时速&lt;20%的;</li>
-    <li>驾驶中型以上载客载货汽车、校车、危险物品运输车辆在<span class="warning-color">高速公路/城市快速路以外</span>的道路上行驶或者驾驶其他机动车行驶超过规定时速20%~50%的;</li>
     <li>驾驶货车载物超过核定载质量&gt;30%或者违反规定载客的;</li>
     <li>驾驶营运客车以外的机动车在高速公路车道内停车的;</li>
     <li>驾驶机动车在<span class="warning-color">高速公路/城市快速路上违法占用应急车道</span>行驶的;(<span class="danger-color">占6</span>)</li>

@@ -248,6 +248,7 @@
     <li>驾驶机动车在高速公路/城市快速路上不按规定车道行驶的；</li>
     <li>驾驶机动车行<span class="warning-color">经人行横道，不按规定减速、停车、避让行人</span>的；</li>
     <li>驾驶机动车<span class="warning-color">不按照规定避让校车</span>的。</li>
+    <li>驾驶<span class="warning-color">不按规定安装机动车号牌</span>的机动车上路。</li>
     <li>驾驶机动车<span class="warning-color">不按规定超车、让行的，或者逆向行驶</span>的；</li>
     <li>驾驶机动车<span class="warning-color">违反规定牵引挂车</span>的；</li>
     <li>在道路上车辆发生故障、事故停车后，<span class="warning-color">不按规定使用灯光和设置警告标志</span>的；</li>
@@ -261,8 +262,8 @@
   <ol>
     <li>机动车<span class="warning-color">驾驶证被暂扣</span>期间驾驶机动车的;</li>
     <li>驾驶机动车<span class="warning-color">违反道路交通信号灯</span>通行的;</li>
-    <li>驾驶营运客车(不包括公共汽车)、校车载人超过核定人数&lt;20%的，7座以上载客汽车载人超过核定人数20%~50%，或者驾驶其他载客汽车载人超过核定人数50%~100%;</li>
-    <li>造驾驶中型以上载客载货汽车、校车、危险物品运输车辆在高速公路/城市快速路上行驶超过规定时速&lt;20%的;</li>
+    <li>驾驶营运客车(不包括公共汽车)、校车载人超过核定人数&lt;20%的，7座以上载客汽车载人超过核定人数20%~50%，或者驾驶其他载客汽车载人超过核定人数50%~100%；</li>
+    <li>造驾驶中型以上载客载货汽车、校车、危险物品运输车辆以外在高速公路/城市快速路以外上行驶超过规定时速&lt;50%的;</li>
     <li>驾驶货车载物超过核定载质量&gt;30%或者违反规定载客的;</li>
     <li>驾驶营运客车以外的机动车在高速公路车道内停车的;</li>
     <li>驾驶机动车在<span class="warning-color">高速公路/城市快速路上违法占用应急车道</span>行驶的;(<span class="danger-color">占6</span>)</li>
@@ -271,6 +272,7 @@
     <li>驾驶机动车载运爆炸物品、易燃易爆化学物品以及剧毒、放射性等危险物品，未按指定的时间、路线、速度行驶或者未悬挂警示标志并采取必要的安全措施的;</li>
     <li>以隐瞒、欺骗手段补领机动车驾驶证的;</li>
     <li>连续驾驶中型以上载客汽车、危险物品运输车辆以外的机动车&gt;4小时未停车休息或者停车休息时间&lt;20分钟的;</li>
+    <li>造成轻微伤或财产损失的交通事故逃逸，尚不构成犯罪</li>
   </ol>
 </div>
 
@@ -282,6 +284,8 @@
     <li>驾驶与<span class="warning-color">准驾车型不符</span>的机动车的；</li>
     <li>高速城快违法停车(<span class="danger-color">停9</span>)</li>
     <li>连续驾驶<span class="warning-color">中型以上</span>载客汽车、危险物品运输车辆&gt;4小时未停车休息或者停车休息时间&lt;20分钟的；</li>
+    <li>驾驶中型以上载客载货汽车、校车、危险物品运输车辆在高速公路/城市快速路上行驶超过规定时速&gt;50%，以及驾驶其他机动车行驶超过规定时速&gt;50%的；</li>
+    <li>驾驶7座以上载客汽车载人超过核定人数50%~100%；</li>
   </ol>
 </div>
 
@@ -294,9 +298,9 @@
       <li>使用<span class="warning-color">伪造、变造</span>的机动车号牌、行驶证、驾驶证、校车标牌或者使用其他机动车号牌、行驶证的；</li>
       <li>驾驶机动车在<span class="warning-color">高速公路上倒车、逆行、穿越中央分隔带掉头</span>的；(<span class="danger-color">倒逆12</span>)</li>
       <li>驾驶<span class="warning-color">营运客车在高速公路车道内停车</span>的；</li>
-      <li>驾驶中型以上载客载货汽车、校车、危险物品运输车辆在高速公路/城市快速路上行驶超过规定时速&gt;20%或者在<span class="warning-color">高速公路/城市快速路以外</span>的道路上行驶超过规定时速&gt;50%，以及驾驶其他机动车行驶超过规定时速&gt;50%的；</li>
+      <li><span class="warning-color">代替</span>驾驶人接受交通违法行为处罚和积分<span class="warning-color">谋取经济利益</span></li>
     </ol>
-    <img src="/img/道路记分.png" alt="超速记分" title="超速记分" class="example-img">
+    <!-- <img src="/img/道路记分.png" alt="超速记分" title="超速记分" class="example-img"> -->
 </div>
 
 ## 限速不超过30
@@ -357,6 +361,7 @@
 <div class="panel-item">
   <ol>
     <li>驶入环岛时，按逆时针方向，不用开启转向灯</li>
+    <li>驶出环岛时，先开启右转向灯</li>
   </ol>
 </div>
 

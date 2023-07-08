@@ -57,11 +57,9 @@
   <ol>
     <li>申请小型汽车、小型自动挡汽车、残疾人专用小型自动挡载客汽车、轻便摩托车准驾车型的，<span class="danger-color">在18周岁以上</span>；</li>
     <li>申请低速载货汽车、三轮汽车、普通三轮摩托车、普通二轮摩托车或者轮式自行机械车准驾车型的，在18-60周岁；</li>
-    <li>申请城市公交车、大型货车、无轨电车或者有轨电车准驾车型的，在20-50周岁；</li>
-    <li>申请中型客车准驾车型的，在21-50周岁；</li>
-    <li>申请牵引车准驾车型的，在24-50周岁；</li>
-    <li>申请大型客车准驾车型的，在26-50周岁。</li>
-    <li>接受全日制驾驶职业教育的学生，申请大型客车、牵引车准驾车型的，在20-50周岁。</li>
+    <li>申请城市公交车、中型客车、大型货车、轻型牵引挂车、无轨电车或者有轨电车准驾车型的，在20-60周岁；</li>
+    <li>申请大型客车、重型牵引挂车准驾车型的，在22-60周岁；</li>
+    <li>接受全日制驾驶职业教育的学生，申请大型客车、重型牵引挂车准驾车型的，在19-60周岁。</li>
   </ol>
 </div>
 
@@ -114,8 +112,8 @@
   <p class="primary-color">血液中酒精含量在80毫克/100毫升（含）以上属于醉酒驾驶</p>
   <ol>
     <li>饮酒后驾驶机动车辆，暂扣6个月机动车驾驶证，罚款1000-2000元，记12分；因饮酒后驾驶机动车被处罚，再次饮酒后驾驶机动车的，处10日以下拘留，并处1000-2000元罚款，<span class="danger-color">吊销机动车驾驶证</span>。</li>
-    <li>饮酒驾驶营运机动车，罚款5000元，记12分，处以15日以下拘留，<span class="danger-color">吊销机动车驾驶证</span>，并且5年内不得重新获取机动车驾驶证</li>
     <li>醉酒驾驶机动车辆，<span class="danger-color">吊销机动车驾驶证</span>，5年内不得重新获取机动车驾驶证，经过判决后处以拘役，并处罚金。</li>
+    <li>饮酒驾驶营运机动车，罚款5000元，记12分，处以15日以下拘留，<span class="danger-color">吊销机动车驾驶证</span>，并且5年内不得重新获取机动车驾驶证</li>
     <li>醉酒驾驶营运机动车的，<span class="danger-color">吊销机动车驾驶证</span>，依法追究刑事责任；10年内不得重新获取机动车驾驶证，重新取得机动车驾驶证后，不得驾驶营运机动车。</li>
     <li>饮酒后或者醉酒驾驶机动车发生重大交通事故，构成犯罪的，依法追究刑事责任，并由公安机关交通管理部门<span class="danger-color">吊销机动车驾驶证</span>，终生不得重新取得机动车驾驶证。</li>
   </ol>
@@ -125,15 +123,16 @@
 <div class="panel-item">
   <ol>
     <li>机动车驾驶人补领机动车驾驶证后，继续使用原机动车驾驶证的</li>
-    <li>逆向行驶</li>
+    <!-- <li>逆向行驶</li> -->
     <li>驾驶人在实习期内驾驶机动车上高速公路行驶，无驾驶员陪同或陪同驾驶员不符合要求的</li>
-    <li>驾驶的机动车不得牵引挂车</li>
-    <li>未按规定粘贴、悬挂实习标志或者残疾人机动车专用标志的</li>
-    <li>持有大型客车、牵引车、城市公交车、中型客车、大型货车驾驶证的驾驶人联系电话、从业单位等信息发生变化未及时申报变更信息的。（<span class="warning-color">在信息变更后30日内，向驾驶证核发地车辆管理所备案</span>）</li>
+    <li>在实习期内驾驶的机动车不得牵引挂车</li>
+    <!-- <li>未按规定粘贴、悬挂实习标志或者残疾人机动车专用标志的</li> -->
+    <li>持有大型客车、重型牵引挂车、城市公交车、中型客车、大型货车驾驶证的驾驶人联系电话、从业单位等信息发生变化未及时申报变更信息的。（<span class="warning-color">在信息变更后30日内，向驾驶证核发地车辆管理所备案</span>）</li>
   </ol>
-  <p class="primary-color">对教练员或者随车指导人员罚款</p>
+  <p class="primary-color">学习驾驶时，对教练员或者随车指导人员罚款</p>
   <ol>
-    <li>学习驾驶时：未按照公安机关交通管理部门指定的路线、时间进行的；未按照规定放置、粘贴学车专用标识的</li>
+    <li>未按照公安机关交通管理部门指定的路线、时间进行的；</li>
+    <li>未按照规定放置、粘贴学车专用标识的</li>
   </ol>
 </div>
 
@@ -152,9 +151,11 @@
     <li>非法安装警报器、标志灯具的，公安机关交通管理部门强制拆除，予以收缴</li>
   </ol>
   行为人有前款第2、4项情形之一的，可以并处<span class="warning-color">吊销机动车驾驶证</span>；有第1项、第3项、第5-8项情形之一的，可以并处<span class="danger-color">15日以下拘留</span>
-  <p class="primary-color">其他</p>
+  <p class="primary-color">学习驾驶时</p>
   <ol>
-    <li>学习驾驶时：未取得学习驾驶证明的；没有教练员或者随车指导人员的；不符合规定的人员随车指导的</li>
+    <li>未取得学习驾驶证明的；</li>
+    <li>没有教练员或者随车指导人员的；</li>
+    <li>不符合规定的人员随车指导的</li>
   </ol>
 </div>
 
@@ -164,7 +165,11 @@
     <li><span class="warning-color">逾期不参加审验</span>仍驾驶机动车的</li>
     <li>驾驶证被<span class="warning-color">依法扣押、扣留或暂扣</span>期间，采用<span class="warning-color">隐瞒、欺骗手段</span>补领驾驶证的</li>
     <li>驾驶人<span class="warning-color">身体条件发生变化</span>不适合驾驶机动车，仍驾驶机动车</li>
-    <li>未使用符合规定的机动车的、自学用车搭载随车指导人员以外的其他人员（对教练员或者随车指导人员罚款）</li>
+  </ol>
+  <p class="primary-color">学习驾驶时，对教练员或者随车指导人员罚款</p>
+  <ol>
+    <li>未使用符合规定的机动车的</li>
+    <li>自学用车搭载随车指导人员以外的其他人员</li>
   </ol>
 </div>
 
@@ -192,15 +197,18 @@
  ## 罚款-其他
 <div class="panel-item">
   <ol>
+    <li>请他人代为接受/代替实际驾驶人接受<span class="warning-color">交通违法</span>行为处罚和记分并支付经济利益的，处所支付经济利益3倍5万，组织5倍10万</li>
+    <li>机动车驾驶人参加<span class="warning-color">审验教育、满分教育</span>时在签注学习记录、学习过程中弄虚作假的，<span class="warning-color">本人：罚1000元；代替他人：罚2000元；组织：罚3倍2万</span>。没有违法所得，2万以下罚款</li>
     <li>申请人在<span class="warning-color">考试</span>过程中有贿赂、舞弊行为的，取消考试资格，已经通过考试的其他科目成绩无效，公安机关交通管理部门处<span class="warning-color">2000元以下</span>罚款；申请人在<span class="warning-color">1年内</span>不得再次申领机动车驾驶证。</li>
-    <li>机动车驾驶人参加<span class="warning-color">审验教育</span>时在签注学习记录、学习过程中弄虚作假的，<span class="warning-color">本人：罚1000元；代替他人：罚2000元；组织：罚3倍2万</span>。没有违法所得，2万以下罚款</li>
-    <li><span class="warning-color">组织</span>他人实施<span class="warning-color">卖分</span>牟取经济利益的，处违法所得<span class="warning-color">5倍以下</span>罚款，但最高<span class="warning-color">不超过10万元</span></li>
+    <!-- <li><span class="warning-color">组织</span>他人实施<span class="warning-color">卖分</span>牟取经济利益的，处违法所得<span class="warning-color">5倍以下</span>罚款，但最高<span class="warning-color">不超过10万元</span></li> -->
     <li><span class="warning-color">组织</span>、参与实施欺骗、贿赂等不正当手段取得机动车<span class="warning-color">驾驶证</span>牟取经济利益的，处违法所得<span class="warning-color">3倍-5倍</span>罚款，但最高<span class="warning-color">不超过10万元</span></li>
     <li>接受交通<span class="warning-color">安全教育</span>扣减交通违法行为记分中弄虚作假的，撤销相应记分扣减记录，<span class="warning-color">1000元以下</span>罚款</li>
-    <li>请<span class="warning-color">他人</span>代为接受<span class="warning-color">交通违法</span>行为处罚和记分并支付经济利益的，处所支付经济利益<span class="warning-color">3倍以下罚款</span>，但最高<span class="warning-color">不超过5万元</span></li>
     <li>以<span class="warning-color">欺骗、贿赂</span>等不正当手段取得校车/机动车<span class="warning-color">驾驶资格</span>的，<span class="warning-color">2000元以下</span>罚款</li>
-    <li><span class="warning-color">伪造、变造</span>或者使用伪造、变造的机动车<span class="warning-color">登记证书、号牌、行驶证、驾驶证</span>的，由公安机关交通管理部门予以<span class="warning-color">收缴，扣留</span>该机动车，处<span class="warning-color">15日以下</span>拘留，并处<span class="warning-color">2000-5000元</span>罚款</li>
-    <li>使用<span class="warning-color">其他车辆</span>的机动车登记证书、号牌、行驶证、检验合格标志、保险标志的，由公安机关交通管理部门予以收缴，扣留该机动车，处<span class="warning-color">2000-5000元</span>罚款</li>
+    <li>伪造、变造或者使用伪造、变造的机动车<span class="warning-color">登记证书、号牌、行驶证、驾驶证</span>的，由公安机关交通管理部门予以收缴，扣留该机动车，处15日以下拘留，并处<span class="warning-color">2000-5000元</span>罚款</li>
+    <li>伪造、变造或者使用伪造、变造的<span class="warning-color">检验合格标志、保险标志</span>的，由公安机关交通管理部门予以收缴，扣留该机动车，处10日以下拘留，并处<span class="warning-color">1000-3000元</span>罚款</li>
+    <li>使用其他车辆的机动车<span class="warning-color">登记证书、号牌、行驶证、检验合格标志、保险标志</span>的，由公安机关交通管理部门予以收缴，扣留该机动车，处<span class="warning-color">2000-5000元</span>罚款</li>
+    <li>公路客运车超员200-500元；超员&gt;20%或载货500-2000元</li>
+    <li>货运机动车超载200-500元；超载&gt;30%或载客500-2000元</li>
   </ol>
 </div>
 
@@ -288,8 +296,8 @@
 
 ## 记分总结
 <img src="/img/drive1.jpg">
-<img src="/img/drive2.jpg">
 <img src="/img/drive3.jpg">
+<img src="/img/drive2.jpg">
 
 ## 限速不超过30
 <div class="panel-item">

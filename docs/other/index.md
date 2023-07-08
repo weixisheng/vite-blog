@@ -162,6 +162,7 @@
 <div class="panel-item">
   <ol>
     <li><span class="warning-color">逾期不参加审验</span>仍驾驶机动车的</li>
+    <li>驾驶证被<span class="warning-color">依法扣押、扣留或暂扣</span>期间，采用<span class="warning-color">隐瞒、欺骗手段</span>补领驾驶证的</li>
     <li>驾驶人<span class="warning-color">身体条件发生变化</span>不适合驾驶机动车，仍驾驶机动车</li>
     <li>未使用符合规定的机动车的、自学用车搭载随车指导人员以外的其他人员（对教练员或者随车指导人员罚款）</li>
   </ol>
@@ -206,30 +207,16 @@
 ## 记1分
 <div class="panel-item">
   <ol>
+    <li>校车、中型以上载客载货汽车、危险物品运输车辆，公路超速10%~20%；</li>
+    <li>不按规定会车，或者在高速路外不按规定倒车、掉头的；</li>
     <li>不按规定使用灯光的；</li>
-    <li>不按规定会车的；</li>
-    <li>不按规定倒车的；</li>
-    <li>未系安全带的；</li>
     <li>驾驶机动车违反禁令标志、禁止标线指示的；</li>
-    <li>驾驶未按规定定期进行安全技术检验的公路客运汽车、旅游客运汽车、危险物品运输车辆以外的机动车上道路行驶的</li>
-    <li>上道路行驶的机动车未放置检验合格标志、保险标志，未随车携带行驶证、机动车驾驶证的；</li>
-    <li>驾驶机动车没有关好车门、车厢的；</li>
     <li>驾驶机动车载货长度、宽度、高度超过规定的；</li>
-  </ol>
-</div>
-
-## 记2分
-<div class="panel-item">
-  <ol>
-    <li>驾驶机动车行经交叉路口不按规定行车或者停车的；</li>
-    <li>驾驶二轮摩托车，不戴安全头盔的；</li>
-    <li>驾驶机动车在高速公路/城市快速路上行驶时，驾驶人未按规定系安全带的；</li>
-    <li class="gray-color">不按照规定为校车配备安全设备，或者不按照规定对校车进行安全维护的；</li>
-    <li class="gray-color">驾驶校车运载学生，不按照规定放置校车标牌、开启校车标志灯，或者不按照经审核确定的线路行驶的；</li>
-    <li class="gray-color">校车上下学生，不按照规定在校车停靠站点停靠的；</li>
-    <li class="gray-color">校车未运载学生上道路行驶，使用校车标牌、校车标志灯和停车指示标志的；</li>
-    <li class="gray-color">驾驶校车上道路行驶前，未对校车车况是否符合安全技术要求进行检查，或者驾驶存在安全隐患的校车上道路行驶的；</li>
-    <li class="gray-color">在校车载有学生时给车辆加油，或者在校车发动机引擎熄灭前离开驾驶座位的。</li>
+    <li>载货汽车载物超载&lt;30%；</li>
+    <li>驾驶未按规定定期进行安全技术检验的公路客运汽车、旅游客运汽车、危险物品运输车辆以外的机动车上道路行驶的</li>
+    <li>驾驶擅自改变已登记的结构、构造或者特征的载货汽车上道路行驶的</li>
+    <li>未系安全带的；</li>
+    <li>驾驶摩托车，不戴安全头盔的</li>
   </ol>
 </div>
 
@@ -238,70 +225,71 @@
   <p class="primary-color">超速处罚超过规定时速10%以内，仅给予警告，不进行扣分处罚。</p>
   <p class="danger-color">慢3占6停9倒逆12。</p>
   <ol>
-    <li>驾驶机动车有拨打、接听手持电话等妨碍安全驾驶的行为的；</li>
-    <li>前方机动车停车排队或者缓慢行驶时，借道超车或者占用对面车道、穿插等候车辆的；(<span class="danger-color">100元罚款</span>)</li>
-    <li>驾驶营运客车（不包括公共汽车）、校车以外的载客汽车载人超过核定人数&lt;20%的；</li>
-    <li>驾驶<span class="warning-color">校车、中型以上载客载货汽车、危险物品运输以外</span>车辆在公路上行驶超过规定时速20%~50%的；</li>
-    <li>驾驶货车载物超过核定载质量&lt;30%的；</li>
-    <li>高速公路上行驶低于规定最低时速的；(<span class="danger-color">慢3</span>)</li>
-    <li>驾驶禁止驶入高速公路的机动车驶入高速公路的；</li>
+    <li>驾驶小型汽车载人超过核定人数20%~50%的；</li>
+    <li>驾驶<span class="warning-color">小型汽车</span>车辆在公路上行驶超过规定时速20%~50%的；</li>
     <li>驾驶机动车在高速公路/城市快速路上不按规定车道行驶的；</li>
+    <li>驾驶机动车<span class="warning-color">不按规定超车、让行的，或者公路上逆向行驶</span>的；</li>
+    <li>前方机动车停车排队或者缓慢行驶时，借道超车或者占用对面车道、穿插等候车辆的；(<span class="danger-color">100元罚款</span>)</li>
+    <li>驾驶机动车有拨打、接听手持<span class="warning-color">电话</span>等妨碍安全驾驶的行为的；</li>
     <li>驾驶机动车行<span class="warning-color">经人行横道，不按规定减速、停车、避让行人</span>的；</li>
     <li>驾驶机动车<span class="warning-color">不按照规定避让校车</span>的。</li>
+    <li>驾驶货车载物超过核定载质量30%~50%，或载客的；</li>
     <li>驾驶<span class="warning-color">不按规定安装机动车号牌</span>的机动车上路。</li>
-    <li>驾驶机动车<span class="warning-color">不按规定超车、让行的，或者逆向行驶</span>的；</li>
-    <li>驾驶机动车<span class="warning-color">违反规定牵引挂车</span>的；</li>
     <li>在道路上车辆发生故障、事故停车后，<span class="warning-color">不按规定使用灯光和设置警告标志</span>的；</li>
-    <li>上道路行驶的机动车未按规定定期进行安全技术检验的。</li>
+    <li>驾驶未按规定定期进行<span class="warning-color">安全技术检验</span>的公路客运汽车、旅游客运汽车、危险物品运输车辆上道路行驶的</li>
+    <li>驾驶校车上道路行驶前，未对<span class="warning-color">校车</span>车况是否符合安全技术要求进行检查，或者驾驶存在<span class="warning-color">安全隐患</span>的校车上道路行驶的；</li>
     <li>连续驾驶载货汽车&gt;4小时未停车休息或者停车休息时间&lt;20分钟的;</li>
+    <li>高速公路上行驶低于规定最低时速的；(<span class="danger-color">慢3</span>)</li>
   </ol>
 </div>
 
 ## 记6分
 <div class="panel-item">
   <ol>
-    <li>机动车<span class="warning-color">驾驶证被暂扣</span>期间驾驶机动车的;</li>
-    <li>驾驶机动车<span class="warning-color">违反道路交通信号灯</span>通行的;</li>
-    <li>驾驶营运客车(不包括公共汽车)、校车载人超过核定人数&lt;20%的，7座以上载客汽车载人超过核定人数20%~50%，或者驾驶其他载客汽车载人超过核定人数50%~100%；</li>
-    <li>驾驶中型以上载客载货汽车、校车、危险物品运输车辆以外在高速公路/城市快速路以外上行驶超过规定时速&lt;50%的;</li>
-    <li>驾驶货车载物超过核定载质量&gt;30%或者违反规定载客的;</li>
-    <li>驾驶营运客车以外的机动车在高速公路车道内停车的;</li>
-    <li>驾驶机动车在<span class="warning-color">高速公路/城市快速路上违法占用应急车道</span>行驶的;(<span class="danger-color">占6</span>)</li>
-    <li>低能见度气象条件下，驾驶机动车在高速公路上不按规定行驶的;</li>
-    <li>驾驶机动车运载超限的不可解体的物品，未按指定的时间、路线、速度行驶或者未悬挂明显标志的;</li>
+    <li>驾驶营运客车(不包括公共汽车)、校车载人超过核定人数&lt;20%的，7座以上载客汽车载人超过核定人数20%~50%，或小型汽车载人超过核定人数50%~100%；</li>
+    <li>中型以上载客载货汽车、校车、危险物品运输车辆高速超速&lt;20%，或公路超速20%~50%;</li>
+    <li>小型汽车高速超速20%~50%，或公路超速&gt;50%</li>
+    <li>驾驶货车载物超过核定载质量&gt;50%;</li>
     <li>驾驶机动车载运爆炸物品、易燃易爆化学物品以及剧毒、放射性等危险物品，未按指定的时间、路线、速度行驶或者未悬挂警示标志并采取必要的安全措施的;</li>
-    <li>以隐瞒、欺骗手段补领机动车驾驶证的;</li>
-    <li>连续驾驶中型以上载客汽车、危险物品运输车辆以外的机动车&gt;4小时未停车休息或者停车休息时间&lt;20分钟的;</li>
+    <li>驾驶机动车运载超限的不可解体的物品，未按指定的时间、路线、速度行驶或者未悬挂警示标志的;</li>
+    <li>驾驶机动车运输危险化学品，未经批准进入危险化学品运输车辆限制通行的区域的</li>
+    <li>驾驶机动车<span class="warning-color">违反道路交通信号灯</span>通行的;</li>
+    <li>机动车<span class="warning-color">驾驶证被暂扣</span>期间驾驶机动车的;</li>
     <li>造成轻微伤或财产损失的交通事故逃逸，尚不构成犯罪</li>
+    <li>驾驶机动车在<span class="warning-color">高速公路/城市快速路上违法占用应急车道</span>行驶的;(<span class="danger-color">占6</span>)</li>
   </ol>
 </div>
 
 ## 记9分
 <div class="panel-item">
   <ol>
-    <li>驾驶<span class="warning-color">未悬挂机动车号牌或者故意遮挡、污损机动车号牌</span>的机动车上道路行驶的;</li>
-    <li><span class="warning-color">未取得校车驾驶资格</span>驾驶校车的;</li>
-    <li>驾驶与<span class="warning-color">准驾车型不符</span>的机动车的；</li>
-    <li>高速城快违法停车(<span class="danger-color">停9</span>)</li>
-    <li>连续驾驶<span class="warning-color">中型以上</span>载客汽车、危险物品运输车辆&gt;4小时未停车休息或者停车休息时间&lt;20分钟的；</li>
     <li>驾驶7座以上载客汽车载人超过核定人数50%~100%；</li>
+    <li>中型以上载客载货汽车、校车、危险物品运输车辆公路超速&gt;50%;</li>
+    <li>高速城快违法停车(<span class="danger-color">停9</span>)</li>
+    <li>驾驶<span class="warning-color">未悬挂机动车号牌或者故意遮挡、污损机动车号牌</span>的机动车上道路行驶的;</li>
+    <li>驾驶与<span class="warning-color">准驾车型不符</span>的机动车的；</li>
+    <li><span class="warning-color">未取得校车驾驶资格</span>驾驶校车的;</li>
+    <li>连续驾驶<span class="warning-color">中型以上</span>载客汽车、危险物品运输车辆&gt;4小时未停车休息或者停车休息时间&lt;20分钟的；</li>
   </ol>
 </div>
 
 ## 记12分
 <div class="panel-item">
-    <ol>
-      <li><span class="warning-color">饮酒</span>后驾驶机动车的；</li>
-      <li>驾驶营运客车（不包括公共汽车）、校车载人超过核定人数&gt;20%的；</li>
-       <li>驾驶中型以上载客载货汽车、校车、危险物品运输车辆在高速公路/城市快速路以超过规定时速&lt;20%，或其他机动车超过&gt;50%;</li>
-      <li>造成<span class="warning-color">交通事故后逃逸</span>，尚不构成犯罪的；</li>
-      <li>使用<span class="warning-color">伪造、变造</span>的机动车号牌、行驶证、驾驶证、校车标牌或者使用其他机动车号牌、行驶证的；</li>
-      <li>驾驶机动车在<span class="warning-color">高速公路上倒车、逆行、穿越中央分隔带掉头</span>的；(<span class="danger-color">倒逆12</span>)</li>
-      <li>驾驶<span class="warning-color">营运客车在高速公路车道内停车</span>的；</li>
-      <li><span class="warning-color">代替</span>驾驶人接受交通违法行为处罚和积分<span class="warning-color">谋取经济利益</span></li>
-    </ol>
-    <!-- <img src="/img/道路记分.png" alt="超速记分" title="超速记分" class="example-img"> -->
+  <ol>
+    <li><span class="warning-color">饮酒</span>后驾驶机动车的；</li>
+    <li>造成<span class="warning-color">交通事故后逃逸</span>，尚不构成犯罪的；</li>
+    <li>使用<span class="warning-color">伪造、变造</span>的机动车号牌、行驶证、驾驶证、校车标牌或者使用其他机动车号牌、行驶证的；</li>
+    <li>驾驶营运客车（不包括公共汽车）、校车载人超过核定人数&gt;20%，或小型汽车载人超过核定人数&gt;100%的；</li>
+    <li>驾驶中型以上载客载货汽车、校车、危险物品运输车辆高速超速&lt;20%，或小型汽车高速超速&gt;50%;</li>
+    <li>驾驶机动车在<span class="warning-color">高速公路上倒车、逆行、穿越中央分隔带掉头</span>的；(<span class="danger-color">倒逆12</span>)</li>
+    <li><span class="warning-color">代替</span>驾驶人接受交通违法行为处罚和积分<span class="warning-color">谋取经济利益</span></li>
+  </ol>
 </div>
+
+## 记分总结
+<img src="/img/drive1.jpg">
+<img src="/img/drive2.jpg">
+<img src="/img/drive3.jpg">
 
 ## 限速不超过30
 <div class="panel-item">
@@ -449,7 +437,7 @@
     <li>驾驶人<span class="warning-color">信息发生变化的30日</span>内向驾驶证核发地车辆管理所申请换证</li>
     <li>驾驶技能准考证明的有效期为3年</li>
     <li>机动车驾驶证有效期分为6年、10年和长期</li>
-    <li>年龄在<span class="warning-color">70周岁以上</span>的机动车驾驶人，应当<span class="warning-color">每年</span>进行一次身体检查，在<span class="warning-color">记分周期结束后三十日</span>内，提交医疗机构出具的有关身体条件的证明</li>
+    <li>年龄在<span class="warning-color">70周岁以上</span>的机动车驾驶人，应当<span class="warning-color">每年</span>进行一次身体检查，在<span class="warning-color">记分周期结束后30日</span>内，提交医疗机构出具的有关身体条件的证明</li>
     <li>一个记分周期满分教育的次数每增加一次或者累积记分每增加12分，道路交通安全法律、法规和相关知识的学习时间增加7天，每次满分学习的天数最多60天</li>
     <li>机动车驾驶人参加<span class="warning-color">现场学习、网络学习</span>的天数累计不得少于<span class="warning-color">5天</span>，其中，<span class="warning-color">现场学习</span>的天数不得少于<span class="warning-color">2天</span>。</li>
     <li>补发、换发号牌期间，申请人可以申领有效期不超过<span class="warning-color">15日的临时行驶车号牌</span></li>
@@ -466,7 +454,7 @@
     <li>高速公路遇到 雨 雾 沙尘 冰雹等限速：（1）能见度&lt;200m，车速≤60km/h，间距≥100m；
       （2）能见度&lt;100m，车速≤40km/h，间距≥50m；
       （3）能见度&lt;50m，车速≤20km/h，尽快驶离高速；
-      <span class="warning-color">261、145、520</span>
+      <span class="warning-color">261、145、52离</span>
     </li>
   </ol>
 </div>

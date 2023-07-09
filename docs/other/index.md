@@ -98,7 +98,7 @@
   <p class="primary-color">驾驶证相关：<span class="danger-color">核发地车辆管理所</span></p>
   <ol>
     <li>在车辆管理所管辖区域内，机动车驾驶证记载的机动车驾驶人信息发生变化的（换证）</li>
-    <li>机动车驾驶证遗失（补发）、损毁无法辨认的（换证）<span class="warning-color">30日内到驾驶证核发地或者核发地以外的车辆管理所</span>申请补发或换证</li>
+    <li>机动车驾驶证遗失（补发）、损毁无法辨认的（换证）<span class="warning-color">30日内到驾驶证核发地、暂住地、居住地的车辆管理所</span>申请补发或换证</li>
   </ol>
   <p class="primary-color">迁入迁出</p>
   <ol>
@@ -122,7 +122,7 @@
  ## 罚款20-200
 <div class="panel-item">
   <ol>
-    <li>机动车驾驶人补领机动车驾驶证后，继续使用原机动车驾驶证的</li>
+    <li>机动车驾驶人<span class="warning-color">补领</span>机动车驾驶证后，继续使用原机动车驾驶证的</li>
     <!-- <li>逆向行驶</li> -->
     <li>驾驶人在实习期内驾驶机动车上高速公路行驶，无驾驶员陪同或陪同驾驶员不符合要求的</li>
     <li>在实习期内驾驶的机动车不得牵引挂车</li>
@@ -180,7 +180,7 @@
     <li>重型、中型载货汽车、专项作业车、挂车及大型客车的车身或者车厢后部未按照规定喷涂放大的牌号或者放大的牌号不清晰的</li>
     <li>机动车喷涂、粘贴标识或者车身广告，影响安全驾驶的</li>
     <li>载货汽车、专项作业车及挂车未按照规定安装侧面及后下部防护装置、粘贴车身反光标识的</li>
-    <li>机动车未按照规定期限进行安全技术检验的</li>
+    <li>机动车未按照规定期限进行<span class="warning-color">安全技术检验</span>的</li>
     <li>改变车身颜色、更换发动机、车身或者车架，未按照规定的时限办理变更登记的</li>
     <li>机动车所有权转让后，现机动车所有人未按照规定的时限办理转让登记</li>
     <li>机动车所有人办理变更登记、转让登记，未按照规定的时限到住所地车辆管理所申请机动车转入的；</li>
@@ -217,7 +217,7 @@
 <div class="panel-item">
   <ol>
     <li>校车、中型以上载客载货汽车、危险物品运输车辆，公路超速10%~20%；</li>
-    <li>不按规定<span class="warning-color">会车</span>，或者在高速路外不按规定倒车、掉头的；</li>
+    <li>不按规定<span class="warning-color">会车</span>，或者在高速路外不按规定<span class="warning-color">倒车、掉头</span>的；</li>
     <li>不按规定使用<span class="warning-color">灯光</span>的；</li>
     <li>驾驶机动车违反<span class="warning-color">禁令标志、禁止标线指示</span>的；</li>
     <li>驾驶机动车载货长度、宽度、高度超过规定的；</li>
@@ -236,7 +236,7 @@
   <ol>
     <li>驾驶小型汽车载人超过核定人数20%~50%的；</li>
     <li>驾驶小型汽车在公路上行驶超过规定时速20%~50%的；</li>
-    <li>驾驶机动车在高速公路/城市快速路上不按规定车道行驶的；</li>
+    <li>驾驶机动车在高速公路/城市快速路上<span class="warning-color">不按规定车道</span>行驶的；</li>
     <li>驾驶机动车<span class="warning-color">不按规定超车、让行的，或者公路上逆向行驶</span>的；</li>
     <li>前方机动车停车排队或者<span class="warning-color">缓慢</span>行驶时，借道超车或者占用对面车道、穿插等候车辆的；(<span class="danger-color">100元罚款</span>)</li>
     <li>驾驶机动车有拨打、接听手持<span class="warning-color">电话</span>等妨碍安全驾驶的行为的；</li>

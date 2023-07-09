@@ -128,6 +128,7 @@
     <li>在实习期内驾驶的机动车不得牵引挂车</li>
     <!-- <li>未按规定粘贴、悬挂实习标志或者残疾人机动车专用标志的</li> -->
     <li>持有大型客车、重型牵引挂车、城市公交车、中型客车、大型货车驾驶证的驾驶人联系电话、从业单位等信息发生变化未及时申报变更信息的。（<span class="warning-color">在信息变更后30日内，向驾驶证核发地车辆管理所备案</span>）</li>
+    <li>违法停车，予以口头警告令其驶离，不在现场或拒不驶离，妨碍通行的</li>
   </ol>
   <p class="primary-color">学习驾驶时，对教练员或者随车指导人员罚款</p>
   <ol>
@@ -198,7 +199,7 @@
 <div class="panel-item">
   <ol>
     <li>请他人代为接受/代替实际驾驶人接受<span class="warning-color">交通违法</span>行为处罚和记分并支付经济利益的，处所支付经济利益3倍5万，组织5倍10万</li>
-    <li>机动车驾驶人参加<span class="warning-color">审验教育、满分教育</span>时在签注学习记录、学习过程中弄虚作假的，<span class="warning-color">本人：罚1000元；代替他人：罚2000元；组织：罚3倍2万</span>。没有违法所得，2万以下罚款</li>
+    <li>机动车驾驶人参加<span class="warning-color">审验教育、满分教育</span>时在签注学习记录、学习过程中弄虚作假的，<span class="warning-color">本人：罚1000元；代替人：罚2000元；组织：罚3倍2万</span>。没有违法所得，2万以下罚款</li>
     <li>申请人在<span class="warning-color">考试</span>过程中有贿赂、舞弊行为的，取消考试资格，已经通过考试的其他科目成绩无效，公安机关交通管理部门处<span class="warning-color">2000元以下</span>罚款；申请人在<span class="warning-color">1年内</span>不得再次申领机动车驾驶证。</li>
     <!-- <li><span class="warning-color">组织</span>他人实施<span class="warning-color">卖分</span>牟取经济利益的，处违法所得<span class="warning-color">5倍以下</span>罚款，但最高<span class="warning-color">不超过10万元</span></li> -->
     <li><span class="warning-color">组织</span>、参与实施欺骗、贿赂等不正当手段取得机动车<span class="warning-color">驾驶证</span>牟取经济利益的，处违法所得<span class="warning-color">3倍-5倍</span>罚款，但最高<span class="warning-color">不超过10万元</span></li>
@@ -216,14 +217,14 @@
 <div class="panel-item">
   <ol>
     <li>校车、中型以上载客载货汽车、危险物品运输车辆，公路超速10%~20%；</li>
-    <li>不按规定会车，或者在高速路外不按规定倒车、掉头的；</li>
-    <li>不按规定使用灯光的；</li>
-    <li>驾驶机动车违反禁令标志、禁止标线指示的；</li>
+    <li>不按规定<span class="warning-color">会车</span>，或者在高速路外不按规定倒车、掉头的；</li>
+    <li>不按规定使用<span class="warning-color">灯光</span>的；</li>
+    <li>驾驶机动车违反<span class="warning-color">禁令标志、禁止标线指示</span>的；</li>
     <li>驾驶机动车载货长度、宽度、高度超过规定的；</li>
     <li>载货汽车载物超载&lt;30%；</li>
     <li>驾驶未按规定定期进行安全技术检验的公路客运汽车、旅游客运汽车、危险物品运输车辆以外的机动车上道路行驶的</li>
     <li>驾驶擅自改变已登记的结构、构造或者特征的载货汽车上道路行驶的</li>
-    <li>未系安全带的；</li>
+    <li>未系<span class="warning-color">安全带</span>的；</li>
     <li>驾驶摩托车，不戴安全头盔的</li>
   </ol>
 </div>
@@ -234,10 +235,10 @@
   <p class="danger-color">慢3占6停9倒逆12。</p>
   <ol>
     <li>驾驶小型汽车载人超过核定人数20%~50%的；</li>
-    <li>驾驶<span class="warning-color">小型汽车</span>车辆在公路上行驶超过规定时速20%~50%的；</li>
+    <li>驾驶小型汽车在公路上行驶超过规定时速20%~50%的；</li>
     <li>驾驶机动车在高速公路/城市快速路上不按规定车道行驶的；</li>
     <li>驾驶机动车<span class="warning-color">不按规定超车、让行的，或者公路上逆向行驶</span>的；</li>
-    <li>前方机动车停车排队或者缓慢行驶时，借道超车或者占用对面车道、穿插等候车辆的；(<span class="danger-color">100元罚款</span>)</li>
+    <li>前方机动车停车排队或者<span class="warning-color">缓慢</span>行驶时，借道超车或者占用对面车道、穿插等候车辆的；(<span class="danger-color">100元罚款</span>)</li>
     <li>驾驶机动车有拨打、接听手持<span class="warning-color">电话</span>等妨碍安全驾驶的行为的；</li>
     <li>驾驶机动车行<span class="warning-color">经人行横道，不按规定减速、停车、避让行人</span>的；</li>
     <li>驾驶机动车<span class="warning-color">不按照规定避让校车</span>的。</li>
@@ -287,10 +288,10 @@
     <li><span class="warning-color">饮酒</span>后驾驶机动车的；</li>
     <li>造成<span class="warning-color">交通事故后逃逸</span>，尚不构成犯罪的；</li>
     <li>使用<span class="warning-color">伪造、变造</span>的机动车号牌、行驶证、驾驶证、校车标牌或者使用其他机动车号牌、行驶证的；</li>
-    <li>驾驶营运客车（不包括公共汽车）、校车载人超过核定人数&gt;20%，或小型汽车载人超过核定人数&gt;100%的；</li>
-    <li>驾驶中型以上载客载货汽车、校车、危险物品运输车辆高速超速&lt;20%，或小型汽车高速超速&gt;50%;</li>
+    <li>驾驶营运客车（不包括公共汽车）、校车载人超过核定人数&gt;20%，或其他载客汽车载人超过核定人数&gt;100%的；</li>
+    <li>驾驶中型以上载客载货汽车、校车、危险物品运输车辆高速超速&gt;20%，或小型汽车高速超速&gt;50%;</li>
     <li>驾驶机动车在<span class="warning-color">高速公路上倒车、逆行、穿越中央分隔带掉头</span>的；(<span class="danger-color">倒逆12</span>)</li>
-    <li><span class="warning-color">代替</span>驾驶人接受交通违法行为处罚和积分<span class="warning-color">谋取经济利益</span></li>
+    <li><span class="warning-color">代替</span>驾驶人接受交通违法行为处罚和记分<span class="warning-color">牟取经济利益</span></li>
   </ol>
 </div>
 

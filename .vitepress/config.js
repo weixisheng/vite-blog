@@ -177,7 +177,7 @@ export default defineConfig({
         text: '🔇其他',
         collapsed: true,
         items: [
-          { text: '驾照', link: '/docs/other/' },
+          { text: '驾考知识', link: '/docs/other/' },
           { text: '英语俗语', link: '/docs/other/english' }
         ]
       }

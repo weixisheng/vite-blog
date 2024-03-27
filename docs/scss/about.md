@@ -7,6 +7,15 @@
 npm i -g cnpm --registry=https://registry.npm.taobao.org
 ```
 
+单纯设置node-sass镜像
+```bash
+# npm
+npx cross-env SASS_BINARY_SITE=https://registry.npmmirror.com/-/binary/node-sass npm i
+
+# yarn
+npx cross-env SASS_BINARY_SITE=https://registry.npmmirror.com/-/binary/node-sass yarn
+```
+
 ### 项目安装依赖
 在镜像安装成功之后，切换到项目，安装依赖
 ```bash

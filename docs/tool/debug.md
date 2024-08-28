@@ -46,3 +46,17 @@ vConsole.destroy();
 - https://unpkg.com/vconsole@latest/dist/vconsole.min.js
 - https://cdn.jsdelivr.net/npm/vconsole@latest/dist/vconsole.min.js
 ![示例图](/img/debug-2.jpg)
+
+## 移动端引入vue-devtools
+> 详情请查阅：https://github.com/Zippowxk/vue-devtools-plugin
+
+使用cdn引入
+```html
+<script src="https://unpkg.com/vconsole@latest/dist/vconsole.min.js"></script>
+<script src="https://unpkg.com/vue-vconsole-devtools@1.0.5/dist/vue_plugin.js"></script>
+<script>
+  var vConsole = new window.VConsole();
+  const Devtools = window.vueVconsoleDevtools
+  Devtools.initPlugin(vConsole);
+</script>
+```

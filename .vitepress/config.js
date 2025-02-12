@@ -143,7 +143,8 @@ export default defineConfig({
         collapsed: true,
         items: [
           { text: 'AI 合集', link: '/docs/AI/' },
-          { text: 'ChatGPT提问技巧', link: '/docs/AI/ask' },
+          { text: 'ChatGPT提问技巧', link: '/docs/AI/chatgpt' },
+          { text: 'DeepSeek提问技巧', link: '/docs/AI/deepseek' },
         ]
       },
       {

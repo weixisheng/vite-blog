@@ -4,14 +4,15 @@
   "description": "hishion blog",
   "main": "index.js",
   "license": "MIT",
-  "devDependencies": {
-    "sass": "^1.62.1",
-    "vitepress": "^1.0.0-beta.1"
-  },
+  "type": "module",
   "scripts": {
     "serve": "vitepress dev",
     "build": "vitepress build",
     "preview": "vitepress preview",
     "commit": "bash ./build/commit.sh"
+  },
+  "devDependencies": {
+    "sass": "^1.62.1",
+    "vitepress": "^1.6.3"
   }
 }

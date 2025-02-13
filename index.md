@@ -27,9 +27,9 @@ features:
     details: 组件化， 模块化， 规范化， 自动化
     link: '/docs/standard/index'
   - icon: 
-      src: /svg/graphql.svg
-    title: 其他知识
-    details: Linux， GraphQL， English slang
-    link: '/docs/linux/index'
+      src: /svg/tool.svg
+    title: 工具镜像
+    details: 扩展， 镜像， 移动端调试
+    link: '/docs/tool/index'
 ---
 

@@ -1,5 +1,5 @@
-### Visual Studio Code
-- 插件
+## Visual Studio Code
+### 插件
 1. Add jsdoc comments: 添加注释
 2. any-rule：正则校验常用
 3. Autoprefixer：样式兼容性
@@ -109,4 +109,23 @@
     "description": "Create uni-app component template"
   }
 }
+```
+
+### 设置
+折叠配置文件。项目根目录下新建.vscode/settings.json文件，内容如下：
+```json
+{
+  "explorer.fileNesting.enabled": true,
+  "explorer.fileNesting.patterns": {
+    "tsconfig.json": "tsconfig.*.json, env.d.ts",
+    "vue.config.*": "jsconfig*, vitest.config.*, cypress.config.*, playwright.config.*, babel.config.*, .babelrc, .browserslistrc",
+    "package.json": "package-lock.json, pnpm*, .yarnrc*, yarn*, .eslint*, eslint*, .prettier*, prettier*, .editorconfig, *.sh"
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "explicit"
+  },
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
+
 ```

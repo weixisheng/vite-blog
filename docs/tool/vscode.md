@@ -116,6 +116,7 @@
 ```json
 {
   "explorer.fileNesting.enabled": true,
+  "explorer.fileNesting.expand": false,
   "explorer.fileNesting.patterns": {
     "tsconfig.json": "tsconfig.*.json, env.d.ts",
     "vue.config.*": "jsconfig*, vitest.config.*, cypress.config.*, playwright.config.*, babel.config.*, .babelrc, .browserslistrc",
@@ -129,3 +130,10 @@
 }
 
 ```
+
+当工作区包含多个项目时，仅设置 `explorer.fileNesting.expand` 参数可能无法生效。此时，还需要通过以下步骤启用嵌套功能：
+1. 点击菜单栏中的 **文件 > 首选项 > 设置**。
+2. 在设置中找到 `explorer.fileNesting.enabled` 并将其设置为 `true`，以启用文件嵌套功能。
+3. 同时，将 `explorer.fileNesting.expand` 设置为 `false`，这样嵌套功能将不会默认展开文件夹，从而避免不必要的混乱。
+
+通过以上操作，可以确保嵌套功能在多项目工作区中正常生效。

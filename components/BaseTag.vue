@@ -9,6 +9,10 @@
 
 <script setup>
 import { computed } from 'vue'
+
+defineOptions({
+  name: 'BaseTag'
+})
 const props = defineProps({
   type: {
     type: String,

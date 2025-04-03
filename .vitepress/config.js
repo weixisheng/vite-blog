@@ -136,6 +136,7 @@ export default defineConfig({
           { text: 'yarn命令', link: '/docs/tool/yarn' },
           { text: 'package version说明', link: '/docs/tool/package-version' },
           { text: '移动端调试工具', link: '/docs/tool/debug' },
+          { text: 'browserslist', link: '/docs/tool/browserslist' },
         ]
       },
       {

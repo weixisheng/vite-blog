@@ -1,5 +1,5 @@
 # browserslist-update
-> 源文档：https://github.com/browserslist/update-db#readme，此为翻译版本
+> 此为翻译版本！源文档：https://github.com/browserslist/update-db#readme
 
 ## 更新 Browserslist 数据库
 用于更新 `caniuse-lite` 中浏览器数据库的 CLI 工具，数据来源自 Browserslist 配置。
